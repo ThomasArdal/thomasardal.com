@@ -359,7 +359,7 @@ Besides the build in tasks in MSBuild, there is a great community project, imple
 <table>
 <tr>
 <td>
-<img src="http://thomasardal.com/wp-content/uploads/2012/04/cover.png" alt="" width="500" height="700" class="aligncenter size-full wp-image-1972" />
+<img src="http://thomasardal.com/wp-content/uploads/2017/03/generate.png" alt="" width="500" height="700" class="aligncenter size-full wp-image-1976" />
 </td>
 <td>
 <!-- Begin MailChimp Signup Form -->
