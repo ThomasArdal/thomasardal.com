@@ -354,7 +354,7 @@ Besides the build in tasks in MSBuild, there is a great community project, imple
 
 <hr/>
 
-<strong>I'm writing the ultimate eBook about MSBuild in .NET and .NET Core. Sign up to be the first to know when it's out.</strong>
+<strong>I'm writing a book about MSBuild in .NET and .NET Core. Sign up to be the first to know when it's out.</strong>
 
 <table>
 <tr>
