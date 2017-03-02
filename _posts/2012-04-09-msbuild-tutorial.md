@@ -352,6 +352,10 @@ A lot of different tools for handling MSBuild files exist. I haven't been able t
 
 Besides the build in tasks in MSBuild, there is a great community project, implementing a lot of nice tasks not implemented by Microsoft. Targets for search and replace, zipping, sending out mails, modifying subversion etc., can be found here: <a href="http://msbuildtasks.tigris.org/">http://msbuildtasks.tigris.org/</a>
 
+<hr/>
+
+<strong>I'm writing the ultimate eBook about MSBuild in .NET and .NET Core. Sign up to be the first to know when it's out.</strong>
+
 <table>
 <tr>
 <td>
