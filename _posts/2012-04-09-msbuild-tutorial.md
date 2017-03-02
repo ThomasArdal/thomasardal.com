@@ -351,3 +351,5 @@ The MSBuild documentation is actually quite good and a must for all serious MSBu
 A lot of different tools for handling MSBuild files exist. I haven't been able to find a tool that makes it possible to run build scripts from within Visual Studio. You could start by installing the MSBuildShellExtension tool from: <a href="http://www.codeplex.com/msbuildshellex/Wiki/View.aspx?title=Home&amp;referringTitle=MSBuild%20Tutorial">MSBuildShellExtension</a>.
 
 Besides the build in tasks in MSBuild, there is a great community project, implementing a lot of nice tasks not implemented by Microsoft. Targets for search and replace, zipping, sending out mails, modifying subversion etc., can be found here: <a href="http://msbuildtasks.tigris.org/">http://msbuildtasks.tigris.org/</a>
+
+[mailchimpsf_form]
