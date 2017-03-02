@@ -352,4 +352,4 @@ A lot of different tools for handling MSBuild files exist. I haven't been able t
 
 Besides the build in tasks in MSBuild, there is a great community project, implementing a lot of nice tasks not implemented by Microsoft. Targets for search and replace, zipping, sending out mails, modifying subversion etc., can be found here: <a href="http://msbuildtasks.tigris.org/">http://msbuildtasks.tigris.org/</a>
 
-[mailchimpsf_form]
+<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us7.list-manage.com","uuid":"66fdd2122e968863d381a26e1","lid":"f44f6bb545"}) })</script>
