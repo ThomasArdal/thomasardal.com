@@ -2,15 +2,11 @@
 ID: 570
 post_title: MSBuild Tutorial
 author: Thomas Ardal
-post_date: 2012-04-09 07:28:48
 post_excerpt: ""
 layout: post
 permalink: http://thomasardal.com/msbuild-tutorial/
 published: true
-hefo_before:
-  - "0"
-hefo_after:
-  - "0"
+post_date: 2012-04-09 07:28:48
 ---
 This article gives a comprehensive introduction to the MSBuild tool.
 
