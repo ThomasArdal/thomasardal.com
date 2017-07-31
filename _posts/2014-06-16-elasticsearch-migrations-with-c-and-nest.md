@@ -2,12 +2,12 @@
 ID: 1361
 post_title: 'Elasticsearch migrations with C# and NEST'
 author: Thomas Ardal
-post_date: 2014-06-16 07:27:32
 post_excerpt: ""
 layout: post
 permalink: >
   http://thomasardal.com/elasticsearch-migrations-with-c-and-nest/
 published: true
+post_date: 2014-06-16 07:27:32
 ---
 It should be so easy: NoSQL databases and their schemaless approach to the world. Say goodbye to tables, primary keys, foreign keys, and most importantly - Migration! Unfortunately the reality is not quite as black and white. I've been working with NoSQL databases such as <a href="http://www.elasticsearch.org/" target="_blank">Elasticsearch</a>, <a href="http://ravendb.net/" target="_blank">RavenDB</a>, <a href="http://www.mongodb.org/" target="_blank">MongoDB</a> and <a href="http://couchdb.apache.org/" target="_blank">CouchDB</a> more or less constantly over the last five years. The past year more intense during the development of my cloud logging project <a href="https://elmah.io/">elmah.io</a>. I've not yet come across a NoSQL database which does not need some sort of data migration.
 
