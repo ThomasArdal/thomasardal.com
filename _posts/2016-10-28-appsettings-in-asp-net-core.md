@@ -2,12 +2,12 @@
 ID: 1905
 post_title: AppSettings in ASP.NET Core
 author: Thomas Ardal
-post_date: 2016-10-28 09:30:22
 post_excerpt: ""
 layout: post
 permalink: >
   http://thomasardal.com/appsettings-in-asp-net-core/
 published: true
+post_date: 2016-10-28 09:30:22
 ---
 I'm currently writing a range of blog posts about ASP.NET Core. This is a cross post of <a href="http://blog.elmah.io/appsettings-in-aspnetcore/?utm_source=thomasardal">AppSettings in ASP.NET Core</a> from the <a href="http://blog.elmah.io/?utm_source=thomasardal">elmah.io blog</a>. Also make sure to check out my later posts <a href="http://blog.elmah.io/config-transformations-in-aspnetcore/">Config transformations in ASP.NET Core</a> and <a href="http://blog.elmah.io/configuration-with-azure-app-services-and-aspnetcore/">Configuration with Azure App Services and ASP.NET Core</a>.
 
