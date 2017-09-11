@@ -19,7 +19,7 @@ To describe my usage of Lean Startup, I've picked five headlines from Lean Start
 
 <ol>
 <li>Introduction</li>
-<li>Minimum viable product</li>
+<li><a href="http://thomasardal.com/lean-startup-on-elmah-io-minimum-viable-product/">Minimum viable product</a></li>
 <li>Continuous deployment</li>
 <li>Split testing</li>
 <li>Metrics</li>
