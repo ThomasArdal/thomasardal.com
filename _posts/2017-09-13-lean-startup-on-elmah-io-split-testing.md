@@ -16,7 +16,7 @@ This is the fourth post in a series about Lean Startup on <a href="https://elmah
 <li><a href="http://thomasardal.com/lean-startup-on-elmah-io-minimum-viable-product/">Minimum viable product</a></li>
 <li><a href="http://thomasardal.com/lean-startup-on-elmah-io-continuous-deployment/">Continuous deployment</a></li>
 <li>Split testing</li>
-<li>Metrics</li>
+<li><a href="http://thomasardal.com/lean-startup-on-elmah-io-metrics/">Metrics</a></li>
 <li>Pivot</li>
 </ol>
 
