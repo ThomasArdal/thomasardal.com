@@ -17,7 +17,7 @@ This is the fourth post in a series about Lean Startup on <a href="https://elmah
 <li><a href="http://thomasardal.com/lean-startup-on-elmah-io-continuous-deployment/">Continuous deployment</a></li>
 <li>Split testing</li>
 <li><a href="http://thomasardal.com/lean-startup-on-elmah-io-metrics/">Metrics</a></li>
-<li>Pivot</li>
+<li><a href="http://thomasardal.com/lean-startup-on-elmah-io-pivot/">Pivot</a></li>
 </ol>
 
 Split testing or A/B testing is one of the practices from Lean Startup that I really enjoy. Making a few adjustments and seeing conversions or similar increase, is very enjoyable as a business owner. I split test everything from button colors on the website to pricing of the paid subscriptions.
