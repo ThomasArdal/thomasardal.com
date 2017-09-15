@@ -17,7 +17,7 @@ This is the second post in a series about Lean Startup on <a href="https://elmah
 <li><a href="http://thomasardal.com/lean-startup-on-elmah-io-continuous-deployment/">Continuous deployment</a></li>
 <li><a href="http://thomasardal.com/lean-startup-on-elmah-io-split-testing/">Split testing</a></li>
 <li><a href="http://thomasardal.com/lean-startup-on-elmah-io-metrics/">Metrics</a></li>
-<li>Pivot</li>
+<li><a href="http://thomasardal.com/lean-startup-on-elmah-io-pivot/">Pivot</a></li>
 </ol>
 
 When starting to think about implementing new products and features, I mostly start by talking to the users. I know that users don't always know what they want, but I'm not Jobs enough to totally live by that rule. Talking to users is a good starting point for at least understanding if my thoughts for a new product/feature fixes a pain point for them. In fact, ideas for new features often flow through the support channel for my business.
