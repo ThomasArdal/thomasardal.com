@@ -17,7 +17,7 @@ This is the fifth post in a series about Lean Startup on <a href="https://elmah.
 <li><a href="http://thomasardal.com/lean-startup-on-elmah-io-continuous-deployment/">Continuous deployment</a></li>
 <li><a href="http://thomasardal.com/lean-startup-on-elmah-io-split-testing/">Split testing</a></li>
 <li>Metrics</li>
-<li>Pivot</li>
+<li><a href="http://thomasardal.com/lean-startup-on-elmah-io-pivot/">Pivot</a></li>
 </ol>
 
 Tech nerds loves metrics, right? I often hear people saying, that you should select 2-5 KPIs and stick with those. They are probably right in some way or form, but I'm all about the numbers. I follow up on the statistics for elmah.io monthly. I'm using a simple Google spreadsheet where I input a lot of metrics manually.
