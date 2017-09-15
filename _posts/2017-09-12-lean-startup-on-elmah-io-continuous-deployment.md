@@ -17,7 +17,7 @@ This is the third post in a series about Lean Startup on <a href="https://elmah.
 <li>Continuous deployment</li>
 <li><a href="http://thomasardal.com/lean-startup-on-elmah-io-split-testing/">Split testing</a></li>
 <li><a href="http://thomasardal.com/lean-startup-on-elmah-io-metrics/">Metrics</a></li>
-<li>Pivot</li>
+<li><a href="http://thomasardal.com/lean-startup-on-elmah-io-pivot/">Pivot</a></li>
 </ol>
 
 I'm on a path to release every change to production. All of my web apps are automatically deployed to <a href="https://azure.microsoft.com/da-dk/" target="_blank">Microsoft Azure</a>, using the deployment engine <a href="https://github.com/projectkudu/kudu" target="_blank">Kudu</a>. I'm using staging environments for the web apps and auto-swap into production after warming up the website (as described <a href="https://docs.microsoft.com/en-us/azure/app-service-web/web-sites-staged-publishing#configure-auto-swap" target="_blank">here</a>). I still click swap manually on the user facing websites, but that's something that I'm working on eliminating as well.
