@@ -13,10 +13,10 @@ This is the sixth and final post in a series about Lean Startup on <a href="http
 
 <ol>
 <li><a href="http://thomasardal.com/lean-startup-on-elmah-io-introduction/">Introduction</a></li>
-<li>Minimum viable product</li>
-<li>Continuous deployment</li>
-<li>Split testing</li>
-<li>Metrics</li>
+<li><a href="http://thomasardal.com/lean-startup-on-elmah-io-minimum-viable-product/">Minimum viable product</a></li>
+<li><a href="http://thomasardal.com/lean-startup-on-elmah-io-continuous-deployment/">Continuous deployment</a></li>
+<li><a href="http://thomasardal.com/lean-startup-on-elmah-io-split-testing/">Split testing</a></li>
+<li><a href="http://thomasardal.com/lean-startup-on-elmah-io-metrics/">Metrics</a></li>
 <li>Pivot</li>
 </ol>
 
