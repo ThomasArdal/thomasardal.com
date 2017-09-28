@@ -25,3 +25,5 @@ To describe my usage of Lean Startup, I've picked five headlines from Lean Start
 <li><a href="http://thomasardal.com/lean-startup-on-elmah-io-metrics/">Metrics</a></li>
 <li><a href="http://thomasardal.com/lean-startup-on-elmah-io-pivot/">Pivot</a></li>
 </ol>
+
+<em>Get 20% off elmah.io during GOTO Copenhagen 2017 by using the coupon code <code>LEANSTARTUPGOTOCPH</code></em>
