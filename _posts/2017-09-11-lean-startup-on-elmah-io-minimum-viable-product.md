@@ -34,4 +34,4 @@ All new major features are launched in beta as quickly as possible. Unlike Googl
 
 Deciding how much to include in the MVP is hard. People always show the <a href="http://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp" target="_blank">skateboard to car drawing</a> (popularized by Spotify), but in real life, it's not that easy. In my experience, the best help is getting the feature out in the open and to start collecting feedback from users.
 
-<em>Get 20% off elmah.io during GOTO Copenhagen 2017 by using the coupon code <code>LEANSTARTUPGOTOCPH</code></em>
+<em>Get 10% off elmah.io during GOTO Copenhagen 2017 by using the coupon code <code>LEANSTARTUPGOTOCPH</code></em>
