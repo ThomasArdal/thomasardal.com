@@ -33,3 +33,5 @@ The pivot where a number of integrations for popular .NET logging frameworks and
 During the next year or so, people started to be confused. No-one (even me) knew if elmah.io was a cloud logging platform for structured log messages or an error management system for websites. After spending quite a lot of time being confused and trying to explain to users what elmah.io was and it wasn't, I decided to change the path of the product once again. In many ways, this pivot returned elmah.io back to its original vision: Providing error management for .NET web applications. This time not only using ELMAH, but for any logging- and web-framework.
 
 In the last year, elmah.io has gained a lot of new features. Features like Deployment Tracking and Uptime Monitoring were added to the suite, and while they can be looked upon as separate products, they very much support the vision of delivering the best error management system for .NET web applications.
+
+<em>Get 10% off elmah.io during GOTO Copenhagen 2017 by using the coupon code <code>LEANSTARTUPGOTOCPH</code></em>
