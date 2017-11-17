@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-09-15 16:02:13
 ---
-This is the sixth and final post in a series about Lean Startup on <a href="https://elmah.io/">elmah.io</a>. Check out the other posts here:
+This is the sixth and final post in a series about Lean Startup on <a href="https://elmah.io/?utm_source=thomasardal&utm_campaign=thomasardal&utm_medium=blog">elmah.io</a>. Check out the other posts here:
 
 <ol>
 <li><a href="http://thomasardal.com/lean-startup-on-elmah-io-introduction/">Introduction</a></li>
