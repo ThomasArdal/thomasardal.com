@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-09-12 17:35:32
 ---
-This is the third post in a series about Lean Startup on <a href="https://elmah.io/">elmah.io</a>. Check out the other posts here:
+This is the third post in a series about Lean Startup on <a href="https://elmah.io/?utm_source=thomasardal&utm_campaign=thomasardal&utm_medium=blog">elmah.io</a>. Check out the other posts here:
 
 <ol>
 <li><a href="http://thomasardal.com/lean-startup-on-elmah-io-introduction/">Introduction</a></li>
@@ -31,3 +31,5 @@ I sometimes need to do some stuff when deploying new versions of the software (l
 <img src="http://thomasardal.com/wp-content/uploads/2017/09/slack-768x147.png" alt="" width="768" height="147" class="aligncenter size-medium_large wp-image-2059" />
 
 I've used both <a href="https://octopus.com/" target="_blank">Octopus Deploy</a> and <a href="https://www.visualstudio.com/team-services/" target="_blank">Visual Studio Team Services</a> with great success in the past. Implementing continuous deployment using one of those tools has often surfaced in my mind, but Kudu works so good, that the cost benefits of switching simply don't add up.
+
+<em>Get 10% off elmah.io during GOTO Copenhagen 2017 by using the coupon code <code>LEANSTARTUPGOTOCPH</code></em>
