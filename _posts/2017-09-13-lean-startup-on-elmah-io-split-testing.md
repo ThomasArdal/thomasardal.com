@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-09-13 17:21:29
 ---
-This is the fourth post in a series about Lean Startup on <a href="https://elmah.io/">elmah.io</a>. Check out the other posts here:
+This is the fourth post in a series about Lean Startup on <a href="https://elmah.io/?utm_source=thomasardal&utm_campaign=thomasardal&utm_medium=blog">elmah.io</a>. Check out the other posts here:
 
 <ol>
 <li><a href="http://thomasardal.com/lean-startup-on-elmah-io-introduction/">Introduction</a></li>
@@ -30,4 +30,4 @@ Converting users into paying customers is pretty much the most important aspect 
 
 Experimenting with prices and the length of the trial period is something I've tried out as well. Elmah.io started out with a free plan, but after numerous attempts to increase the conversion from free to paid, I decided to switch to a trial based approach. The length of the trial period have been between 2 and 4 weeks and I've currently settled on 3 weeks. Similar attempts have been tried out with the price. I started out with prices as low as $9 per month. I currently offer five different plans, but will start experimenting with fewer later this year. When I started working on elmah.io 4 years ago, $9 per month was pretty much what people would pay for SaaS. Luckily, it seems like people have begun to understand what is required to run a SaaS solution with near 100% uptime.
 
-<em>Get 20% off elmah.io during GOTO Copenhagen 2017 by using the coupon code <code>LEANSTARTUPGOTOCPH</code></em>
+<em>Get 10% off elmah.io during GOTO Copenhagen 2017 by using the coupon code <code>LEANSTARTUPGOTOCPH</code></em>
